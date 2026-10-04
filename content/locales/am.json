@@ -1,0 +1,126 @@
+{
+  "lang_picker": "<b>ቋንቋዎን ይምረጡ</b>\n\nለመቀጠል እባክዎ ቋንቋ ይምረጡ።",
+  "home": "<b>Sirius for Sustainable Resilience (SSR)</b>\n<i>Empowering Youth for Lasting Change</i>\n\nA women-led civil society organization in Tigray &amp; Addis Ababa, empowering youth, women, and marginalized communities through peace, rights, and digital inclusion.\n\nChoose a path below:",
+  "about": "<b>About Sirius for Sustainable Resilience (SSR)</b>\n\nSSR is a non-profit, non-political, women-led CSO founded in Tigray, Ethiopia. We empower marginalized communities, youth, and women through capacity building, advocacy, and opportunity creation.\n\n<b>Mission</b>\nTo empower youth and marginalized groups through capacity building, advocacy, and meaningful participation in creating a safe and peaceful environment.\n\n<b>Vision</b>\nAn inclusive and enabling environment with an empowered society achieving sustainable development.\n\n<b>Our thematic areas</b>\n• Empowerment of marginalized communities\n• Youth and women empowerment\n• Peacebuilding and social cohesion\n• Human rights advocacy\n• Economic resilience and digital inclusion\n\n<b>Who we serve</b>\nYouth and women • Internally Displaced Persons (IDPs) • Marginalized and conflict-affected communities\n\n<b>Our values</b>\nSustainability • Service • Resilience",
+  "contact": "<b>Contact Sirius for Sustainable Resilience (SSR)</b>\n\n<b>Contact person</b>\nZemen Desta — Executive Director\nPhone: +251 939 367 178\nEmail: zemufani@gmail.com\n\n<b>Locations</b>\nMekelle, Tigray\nAddis Ababa, Ethiopia\n\nWe welcome partnerships, community referrals, and youth who want to learn and participate.",
+  "help": "<b>How to use this bot</b>\n\n1. Send <b>/start</b> — open the home menu\n2. Tap a button — About, GBV, Peace, Rights, or Contact\n3. Use <b>Back</b> / <b>Main menu</b> to move around\n4. Try <b>Find your path</b> for a short guided route\n5. Use <b>Language</b> to switch English, Amharic, or Tigrinya\n\nThis bot works by <b>buttons</b>, not free chat. Typing or sending files will show a short guide again.\n\n<i>More staff tools and deeper guides are planned with SSR.</i>",
+  "fallback": "<b>Let's use the menu</b>\n\nThis bot shares digital guides through buttons — it does not reply to free text or file uploads.\n\n<b>Quick guide</b>\n1. Tap <b>Main menu</b> below or send /start\n2. Choose a topic (GBV, Peace, Rights, About, Contact)\n3. Read short guides — use Back anytime\n4. Need a suggestion? Tap <b>Find your path</b> on the home menu",
+  "not_found": "ይቅርታ፣ ያ ገጽ አልተገኝም።\n\nለመቀጠል ዋና ምናሌን ይጃኑ።",
+  "menu": {
+    "about": "ስለ SSR",
+    "gbv": "ጂቢቪ መረጃ",
+    "peace": "ሰላም ግንባታ",
+    "rights": "ሰብአዋ መብቶች",
+    "quiz": "መንገድዎን ያግኙ",
+    "contact": "ያግኙን",
+    "help": "እገዛ",
+    "language": "ቋንቋ",
+    "resources": "Resources",
+    "updates": "Updates",
+    "involve": "Get involved",
+    "request": "Request support"
+  },
+  "nav": {
+    "back": "ተመለስ",
+    "main": "ዋና ምናሌ",
+    "try_again": "እንደገና ይሎክሩ"
+  },
+  "gbv": {
+    "menu": "<b>Gender-Based Violence (GBV)</b>\n\nClear, respectful information to help you understand GBV, know your rights, stay safer, and find support.\n\n<i>This bot shares information only. It is not a crisis counseling service. If you or someone else is in immediate danger, contact local emergency services or a trusted support provider.</i>\n\nChoose a guide:",
+    "what": "<b>What is Gender-Based Violence?</b>\n\nGBV is harm directed at a person because of their gender. It can include physical, sexual, emotional, economic, or online abuse.\n\n<b>Important truths</b>\n• GBV is never the survivor's fault\n• It can happen in homes, schools, workplaces, or communities\n• Anyone can be affected — women and girls face higher risk\n• Silence protects abuse; support and accountability protect people\n\nUnderstanding GBV is a first step toward safer communities.",
+    "rights": "<b>Your rights matter</b>\n\nEvery person has the right to safety, dignity, and bodily autonomy.\n\nYou have the right to:\n• Live free from violence and intimidation\n• Seek help without shame or blame\n• Be heard with respect and confidentiality\n• Access information, healthcare, and justice support\n• Make decisions about your own recovery and next steps\n\nKnowing your rights helps you advocate for yourself and others.",
+    "safety": "<b>Practical safety ideas</b>\n\n• Tell a trusted person where you are when you feel unsafe\n• Keep emergency contacts easy to reach\n• If possible, move to a safer public space when threatened\n• Document incidents only if it is safe to do so\n• Online: protect passwords, avoid sharing location publicly, and block/report harassment\n\nSafety plans look different for everyone. Choose what fits your situation — your judgment matters.",
+    "support": "<b>If someone confides in you</b>\n\n• Listen without judgment\n• Believe them — do not ask what they \"did wrong\"\n• Respect privacy; do not share their story without consent\n• Ask how you can help, rather than taking over\n• Encourage professional or community support when needed\n\nSupportive communities reduce stigma and help survivors heal.",
+    "help": "<b>Get help &amp; resources</b>\n\nIf you need support, you are not alone.\n\n<b>SSR contact</b>\nZemen Desta, Executive Director\nPhone: +251 939 367 178\nEmail: zemufani@gmail.com\nLocations: Mekelle, Tigray &amp; Addis Ababa\n\n<b>Please remember</b>\nThis bot provides digital information. For urgent danger, contact local emergency services, police, a health facility, or a trusted protection actor in your area.\n\nSSR works to create safer spaces for youth and women — reach out if you want guidance on community programs.",
+    "btn": {
+      "what": "ጂቢቪ ምንድን ነው፧",
+      "rights": "መብትዎ",
+      "safety": "የደህንነት ምክሮች",
+      "support": "ተጎጂዎችን መደገፍ",
+      "help": "እርዳታ ያግኙ"
+    }
+  },
+  "peace": {
+    "menu": "<b>Peacebuilding &amp; Social Cohesion</b>\n\nSSR strengthens trust, dialogue, and peaceful coexistence within and between communities — especially among youth.\n\nExplore a short guide:",
+    "why": "<b>Why peacebuilding matters</b>\n\nConflict damages trust, education, livelihoods, and hope. Peacebuilding helps communities rebuild relationships and prevent cycles of harm.\n\nInclusive peace means youth, women, and marginalized groups have a real voice in decisions that shape their future.",
+    "dialogue": "<b>Dialogue &amp; peaceful coexistence</b>\n\nPractical ways to contribute:\n• Listen across differences before reacting\n• Challenge rumors with verified information\n• Create spaces where people feel safe to speak\n• Support local initiatives that bring communities together\n\nSmall acts of respect and dialogue build social cohesion over time.",
+    "youth": "<b>Youth role in peace</b>\n\nYoung people are not only affected by conflict — they are agents of lasting change.\n\nSSR invests in youth leadership, skills, and participation so \"Sirius\" young people can drive inclusive and peaceful solutions in their communities.",
+    "btn": {
+      "why": "ሰላም ለምን",
+      "dialogue": "ውይይት",
+      "youth": "የወጣቶች ሚና",
+      "rumors": "Rumors and trust",
+      "skills": "Peace skills"
+    },
+    "rumors": "<b>Rumors and trust</b>\n\nFalse rumors can restart fear and conflict.\n\n• Pause before sharing unverified claims\n• Ask where information came from\n• Encourage community dialogue instead of blame\n• Support local fact-checkers and peace actors\n\nTrust grows when people feel heard and informed.",
+    "skills": "<b>Peace skills for youth</b>\n\nPractical skills SSR promotes:\n• Active listening\n• Mediation basics\n• Inclusive facilitation\n• Non-violent communication\n• Planning community dialogue sessions\n\nThese skills help youth lead peaceful change in schools, IDP sites, and neighborhoods."
+  },
+  "rights": {
+    "menu": "<b>Human Rights Advocacy</b>\n\nSSR promotes awareness, protection, and advocacy for fundamental human rights — with a focus on women and youth.\n\nChoose a guide:",
+    "basics": "<b>Human rights basics</b>\n\nHuman rights are freedoms and protections every person has simply because they are human — including dignity, equality, safety, education, and participation.\n\nRights are universal: they apply to everyone, everywhere, without discrimination.",
+    "women_youth": "<b>Women &amp; youth focus</b>\n\nWomen and youth often face barriers to safety, voice, and opportunity — especially after conflict or displacement.\n\nSSR centers their leadership and participation so advocacy reflects real community needs, not top-down decisions alone.",
+    "engage": "<b>How you can engage</b>\n\n• Learn and share accurate rights information\n• Stand with people whose rights are denied\n• Join peaceful community and CSO initiatives\n• Contact SSR to learn about programs and partnerships\n\nAdvocacy starts with awareness — and grows through collective action.",
+    "btn": {
+      "basics": "መሰረታዊ መብቶች",
+      "women_youth": "ሴቶችና ወጣቶች",
+      "engage": "እንዴት መሳተፍ",
+      "advocacy_steps": "Advocacy steps",
+      "duty_bearers": "Duty-bearers"
+    },
+    "advocacy_steps": "<b>Advocacy steps</b>\n\n1. Learn the issue and the rights involved\n2. Document facts safely and accurately\n3. Build allies (youth, women, CSOs)\n4. Choose peaceful channels (meetings, petitions, media)\n5. Follow up and protect people at risk\n\nAdvocacy is strongest when communities lead and stay safe.",
+    "duty_bearers": "<b>Duty-bearers and accountability</b>\n\nDuty-bearers (government offices, institutions, service providers) have obligations to respect, protect, and fulfill rights.\n\nCommunities can:\n• Ask clear questions about services\n• Use complaint and referral pathways\n• Partner with CSOs like SSR for accompaniment\n• Demand inclusion of women and youth in decisions"
+  },
+  "quiz": {
+    "intro": "<b>Find your path</b>\n\nAnswer one quick question. We'll point you to the guide that fits what you need right now.",
+    "question": "ዛሬ ምን ይፈልጋሉ፧",
+    "gbv_label": "ደህንነት፣ ጂቢቪ ወይም ድጋፍ",
+    "gbv_result": "<b>Suggested path: GBV guides</b>\n\nStart with clear information on gender-based violence, rights, safety, and where to seek help.\n\nTap below to open the GBV section.",
+    "gbv_goto": "ጂቢቪ ይክፈቱ",
+    "peace_label": "ሰላምና ማህበራዊ ትስስር",
+    "peace_result": "<b>Suggested path: Peacebuilding</b>\n\nExplore how dialogue, trust, and youth leadership strengthen peaceful coexistence.\n\nTap below to open Peacebuilding.",
+    "peace_goto": "ሰላም ይክፈቱ",
+    "rights_label": "መብቶችና ተሞጋችነት",
+    "rights_result": "<b>Suggested path: Human Rights</b>\n\nLearn rights basics and how women and youth can engage in advocacy with SSR.\n\nTap below to open Human Rights Advocacy.",
+    "rights_goto": "መብቶች ይክፈቱ",
+    "about_label": "ስለ ኤስኤስአር ይወቁ",
+    "about_result": "<b>Suggested path: About SSR</b>\n\nDiscover who we are, our mission, and how we serve youth, women, and marginalized communities.\n\nTap below to read About SSR.",
+    "about_goto": "ስለ SSR"
+  },
+  "resources": {
+    "menu": "<b>Resources</b>\n\nDownloadable and shareable materials (PDFs/media). Add files into the media folders on the server to enable downloads.",
+    "empty": "No file is available for this topic yet. SSR can add PDFs into the media folder."
+  },
+  "feedback": {
+    "ask": "Was this guide helpful?",
+    "yes": "Yes",
+    "no": "No",
+    "skip": "Skip",
+    "thanks": "Thank you for your feedback."
+  },
+  "referral": {
+    "intro": "<b>Request support</b>\n\nThis is not emergency counseling. If you are in immediate danger, contact local emergency services first.\n\nYou can request SSR follow-up about information, programs, or referrals.",
+    "choose_need": "What do you need?",
+    "need_info": "Information",
+    "need_program": "SSR program",
+    "need_referral": "Referral help",
+    "ask_contact": "Optional: send a phone number or email the team can use. Or tap Skip.",
+    "skip_contact": "Skip contact details",
+    "done": "Thank you. Your request was sent to SSR staff. If this is urgent danger, contact local emergency services now.",
+    "btn": "Request support"
+  },
+  "updates": {
+    "menu": "<b>Updates</b>\n\nReceive occasional SSR announcements. You can unsubscribe anytime.",
+    "sub": "Subscribe",
+    "unsub": "Unsubscribe",
+    "sub_ok": "You are subscribed to SSR updates.",
+    "unsub_ok": "You are unsubscribed."
+  },
+  "involve": {
+    "menu": "<b>Get involved</b>\n\nShare interest in volunteering with SSR.",
+    "start": "Volunteer interest",
+    "ask_city": "Which city/area are you in? (type a short reply)",
+    "ask_skills": "What skills or interest do you want to offer? (short reply)",
+    "done": "Thank you. SSR staff received your volunteer interest.",
+    "btn": "Get involved"
+  }
+}
